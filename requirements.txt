@@ -1,0 +1,5 @@
+pandas
+SQLAlchemy
+click
+python-decouple
+psycopg2-binary
