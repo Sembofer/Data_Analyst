@@ -19,7 +19,7 @@ docker run -d --name arkon_data -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=p
 
 You need to move to the database folder, create the tables and load the data
 ```
-cd challenge_2
+cd database
 python setup_db.py
 ```
 ### Querys on data base
